@@ -217,4 +217,4 @@ const Form = ({formType, submitBtn, formTitle}) => {
   )
 }
 
-export default Form
+export default Form;
