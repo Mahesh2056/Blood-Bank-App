@@ -41,4 +41,3 @@ jspm_packages
 /server/node_modules
 /client/node_modules
 #Excluding build directory
-public/
